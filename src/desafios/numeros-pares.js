@@ -14,6 +14,7 @@ function NumerosPares() {
             } else {
                 setNumerosPares( numerosPares + ', ' + numeros) 
             }
+            alert("Simm, é par!!!")
         } else {
             alert('O número digitado não é par')
         }
@@ -31,7 +32,7 @@ function NumerosPares() {
         <button onClick={() => numeroPar(numeros)}>É par?</button>
 
         {ePar && (
-            <h2>Par: {numerosPares}</h2>
+            <h2>Lista de pares: {numerosPares}</h2>
         )  }
            
         </>
