@@ -1,3 +1,7 @@
+# Project objective
+
+In this project you can find different types of simple codes. They were made as a way to study React and test different functionalities. Also, it can be a great portfolio showing my habilities
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
