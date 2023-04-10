@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/desafios-react/static/css/main.02127948.css",
+    "main.js": "/desafios-react/static/js/main.e496c207.js",
+    "static/js/787.69c20b01.chunk.js": "/desafios-react/static/js/787.69c20b01.chunk.js",
+    "index.html": "/desafios-react/index.html",
+    "main.02127948.css.map": "/desafios-react/static/css/main.02127948.css.map",
+    "main.e496c207.js.map": "/desafios-react/static/js/main.e496c207.js.map",
+    "787.69c20b01.chunk.js.map": "/desafios-react/static/js/787.69c20b01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02127948.css",
+    "static/js/main.e496c207.js"
+  ]
+}
